@@ -1,0 +1,18 @@
+{
+  "name": "sass-utilities",
+  "version": "0.0.1",
+  "homepage": "https://github.com/brunobatista/sass-utilities",
+  "authors": [
+    "Bruno Batista <bruno@atomtech.com.br>"
+  ],
+  "description": "CSS Utilities for build more fast frontend applications. Based in Emmet syntax.",
+  "main": "assets\\stylesheets\\utilities.scss",
+  "keywords": [
+    "sass",
+    "css utilities"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ]
+}

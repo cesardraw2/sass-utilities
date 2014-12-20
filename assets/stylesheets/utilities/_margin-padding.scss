@@ -1,0 +1,43 @@
+//
+// Margin & Padding
+// --------------------------------------------------
+
+
+// Margin
+// -------------------------
+
+.m {
+  margin: $margin-base;
+}
+.mt {
+  margin-top: $margin-vertical;
+}
+.mr {
+  margin-right: $margin-horizontal;
+}
+.mb {
+  margin-bottom: $margin-vertical;
+}
+.ml {
+  margin-left: $margin-horizontal;
+}
+
+
+// Padding
+// -------------------------
+
+.p {
+  padding: $pading-base;
+}
+.pt {
+  padding-top: $padding-vertical;
+}
+.pr {
+  padding-right: $padding-horizontal;
+}
+.pb {
+  padding-bottom: $padding-vertical;
+}
+.pl {
+  padding-left: $padding-horizontal;
+}

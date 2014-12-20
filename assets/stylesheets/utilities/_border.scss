@@ -1,0 +1,28 @@
+//
+// Border
+// --------------------------------------------------
+
+.b {
+  border-style: solid;
+  border-color: $border-color;
+}
+.bd {
+  @extend .b;
+  border-width: 1px;
+}
+.bdt {
+  @extend .b;
+  border-top-width: 1px;
+}
+.bdr {
+  @extend .b;
+  border-right-width: 1px;
+}
+.bdb {
+  @extend .b;
+  border-bottom-width: 1px;
+}
+.bdl {
+  @extend .b;
+  border-left-width: 1px;
+}
