@@ -21,6 +21,9 @@
 .ml {
   margin-left: $margin-horizontal;
 }
+.mn {
+  margin: 0;
+}
 
 
 // Padding
@@ -40,4 +43,7 @@
 }
 .pl {
   padding-left: $padding-horizontal;
+}
+.pn {
+  padding: 0;
 }
