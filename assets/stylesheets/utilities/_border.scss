@@ -5,6 +5,7 @@
 .b {
   border-style: solid;
   border-color: $border-color;
+  border-width: 0;
 }
 .bd {
   @extend .b;
@@ -25,4 +26,7 @@
 .bdl {
   @extend .b;
   border-left-width: 1px;
+}
+.bdn {
+  border: none;
 }

@@ -6,6 +6,9 @@
 // Margin
 // -------------------------
 
+.mn {
+  margin: 0;
+}
 .m {
   margin: $margin-base;
 }
@@ -21,14 +24,14 @@
 .ml {
   margin-left: $margin-horizontal;
 }
-.mn {
-  margin: 0;
-}
 
 
 // Padding
 // -------------------------
 
+.pn {
+  padding: 0;
+}
 .p {
   padding: $padding-base;
 }
@@ -43,7 +46,4 @@
 }
 .pl {
   padding-left: $padding-horizontal;
-}
-.pn {
-  padding: 0;
 }
