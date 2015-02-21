@@ -6,7 +6,7 @@
     "Bruno Batista <bruno@atomtech.com.br>"
   ],
   "description": "CSS Utilities for build more fast frontend applications. Based in Emmet syntax.",
-  "main": "assets\\stylesheets\\utilities.scss",
+  "main": "./assets/stylesheets/utilities.scss",
   "keywords": [
     "sass",
     "css utilities"
