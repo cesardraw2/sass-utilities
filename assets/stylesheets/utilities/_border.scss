@@ -3,6 +3,9 @@
 // --------------------------------------------------
 
 
+// Width
+// -------------------------
+
 .b {
   border-style: solid;
   border-color: $border-color;
@@ -30,4 +33,12 @@
 }
 .bdn {
   border: none;
+}
+
+
+// Radius
+// -------------------------
+
+.bdrsn {
+  border-radius: none;
 }
